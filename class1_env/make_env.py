@@ -71,3 +71,10 @@ Commands:
   uninstall  卸载一个库
   update     卸载当前所有的包，并安装它们的最新版本
 """
+'''
+导出安装包列表
+pipenv lock -r --dev >requirements.txt
+
+pipenv install -r requirements.txt
+
+'''
