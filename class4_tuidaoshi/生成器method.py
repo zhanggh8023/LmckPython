@@ -30,4 +30,4 @@ print(next(g))
 
 # throw:异常抛出,在生成器中内部主动引发一个异常
 # #参数：异常类型   异常信息
-g.throw(ValueError, "hello python")
+# g.throw(ValueError, "hello python")

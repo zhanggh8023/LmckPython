@@ -21,7 +21,6 @@ class Practice:
         :param sheet_name: 表单名称
         :return: 读取的数据
         """
-
         workbook = load_workbook(file_path)
         sheet = workbook[sheet_name]
         row_max = sheet.max_row  # 最大行数
@@ -57,12 +56,12 @@ def read_excel (file_path, sheet_name):
     ws = wb[sheet_name]
     col = ws.max_column + 1
     row = ws.max_row + 1
-    test_data = ({ws.cell(1, j).value: ws.cell(i, j).value for i in range(1, col)} for j in range(2, 15))
+    test_data = ({ws.cell(1, j).value: ws.cell(i, j).value for j in range(1, col)} for i in range(2, row))
     return test_data
 
 
 res = read_excel('interface_cases.xlsx', 'Sheet2')
-print(list(res))
+# print(list(res))
 for i in res:
     print(i)
 
