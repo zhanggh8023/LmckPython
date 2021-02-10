@@ -46,7 +46,7 @@ class MyTest(object):
 
 # t1 = MyTest()
 # t1.name='zgh'
-# MyTest.instance = None
+# MyTest.__instance = None
 # t2=MyTest()
 # print(t2.name)
 # t3=MyTest()
