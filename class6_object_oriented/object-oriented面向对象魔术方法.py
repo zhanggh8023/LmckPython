@@ -12,6 +12,7 @@ class MyClass(object):
 
     def __init__(self,name):
         self.name = name
+        print("__init__方法调用")
 
     def __new__(cls, *args, **kwargs):
         print('这是一个new方法')
@@ -21,7 +22,7 @@ class MyClass(object):
 
 
 m=MyClass('zgh')
-print(m.name)
+# print(m.name)
 # print(m)
 
 

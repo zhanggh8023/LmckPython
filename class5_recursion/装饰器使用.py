@@ -73,8 +73,9 @@ def func ():
 
 class MyTest(object):
 
-    def __init__(self,name):
-        self.name=name
+    def __init__(self):
+        # self.name=name
+        pass
 
     @classmethod    # 被classmethod装饰之后，该方法就是一个类
     def add(cls):   #  cls:点的是类本身
@@ -94,7 +95,7 @@ class MyTest(object):
         print("sub")
         print('sub中的self：',self)
 
-t= MyTest('zgh')
+t= MyTest()
 t.name='yuze'
 
 print(t.name)
