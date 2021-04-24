@@ -8,6 +8,9 @@ django = "*"
 flask = "*"
 requests = "*"
 pymysql = "*"
+jinja2 = "*"
+aiofiles = "*"
+python-multipart = "*"
 
 [dev-packages]
 
