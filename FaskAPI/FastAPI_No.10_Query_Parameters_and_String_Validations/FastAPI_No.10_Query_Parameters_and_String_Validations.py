@@ -13,7 +13,7 @@ async def read_items(q: str = Query(..., min_length=3, max_length=50)):
         results.update({"q": q})
     return results
 #########################################################
-#正则表达式
+# 正则表达式——以nice未开始
 @app.get("/items2/")
 async def read_items2(
                         q: str = Query(None, min_length=3, max_length=50, regex="^nice")
@@ -22,14 +22,18 @@ async def read_items2(
     if q:
         results.update({"q": q})
     return results
+
+
 #########################################################
-#列表
+#列表——增加删除
 @app.get("/items3/")
 async def read_items3(q: List[str] = Query(["foo", "bar"])):
     query_items = {"q": q}
     return query_items
+
+
 #########################################################
-#别名参数
+#别名参数——使用其他名称
 @app.get("/items4/")
 async def read_items4(q: str = Query(None, alias="item-query")):
     results = {"items": [{"item_id": "Foo"}, {"item_id": "Bar"}]}
