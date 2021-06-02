@@ -11,6 +11,7 @@ pymysql = "*"
 jinja2 = "*"
 aiofiles = "*"
 python-multipart = "*"
+fastapi = "*"
 
 [dev-packages]
 
