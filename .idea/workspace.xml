@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d9e1608-049e-4c91-9bd2-34022d0b39ab" name="Default Changelist" comment="》">
-      <change afterPath="$PROJECT_DIR$/class8_内存管理/元类.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class8_内存管理/内存2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class8_内存管理/模型类案例：实现ORM模型中的字段类型.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/LmckPython.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LmckPython.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class8_内存管理/垃圾回收引用.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class8_内存管理/深拷贝.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class8_内存管理/深拷贝关系引用.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8_内存管理/内存2.py" beforeDir="false" afterPath="$PROJECT_DIR$/class8_内存管理/内存2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,7 +169,7 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.语言默认值" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -188,7 +186,7 @@
       <recent name="F:\LmckPython\class5_recursion" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.内存2">
+  <component name="RunManager" selected="Python.垃圾回收机制">
     <configuration name="垃圾回收机制" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LmckPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -233,6 +231,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="深拷贝" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LmckPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class8_内存管理" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class8_内存管理/深拷贝.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="FastAPI_No.10_Query_Parameters_and_String_Validations" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LmckPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -247,28 +267,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FaskAPI/FastAPI_No.10_Query_Parameters_and_String_Validations/FastAPI_No.10_Query_Parameters_and_String_Validations.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="FastAPI_No.12_Body_Multiple_Parameters_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LmckPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FaskAPI/FastAPI_No.12_Body_Multiple_Parameters" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FaskAPI/FastAPI_No.12_Body_Multiple_Parameters/FastAPI_No.12_Body_Multiple_Parameters_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -344,19 +342,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.FastAPI_No.12_Body_Multiple_Parameters_1" />
       <item itemvalue="Python.toutiao" />
       <item itemvalue="Python.FastAPI_No.10_Query_Parameters_and_String_Validations" />
       <item itemvalue="Python.垃圾回收机制" />
       <item itemvalue="Python.内存2" />
+      <item itemvalue="Python.深拷贝" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.内存2" />
         <item itemvalue="Python.垃圾回收机制" />
+        <item itemvalue="Python.深拷贝" />
+        <item itemvalue="Python.内存2" />
         <item itemvalue="Python.FastAPI_No.10_Query_Parameters_and_String_Validations" />
         <item itemvalue="Python.toutiao" />
-        <item itemvalue="Python.FastAPI_No.12_Body_Multiple_Parameters_1" />
       </list>
     </recent_temporary>
   </component>
@@ -390,7 +388,8 @@
       <workItem from="1621921263631" duration="132000" />
       <workItem from="1621946280538" duration="984000" />
       <workItem from="1622631232026" duration="3725000" />
-      <workItem from="1622637419817" duration="1827000" />
+      <workItem from="1622637419817" duration="2763000" />
+      <workItem from="1630321545884" duration="3665000" />
     </task>
     <task id="LOCAL-00001" summary="》完成第十一天的课程学习">
       <created>1612773564365</created>
@@ -504,7 +503,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620732519465</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="》内存学习">
+      <created>1622639476605</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1622639476605</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -586,13 +592,14 @@
     <MESSAGE value="》提交FastAPI基础应用学习" />
     <MESSAGE value="》测试" />
     <MESSAGE value="》" />
-    <option name="LAST_COMMIT_MESSAGE" value="》" />
+    <MESSAGE value="》内存学习" />
+    <option name="LAST_COMMIT_MESSAGE" value="》内存学习" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/LmckPython$2.coverage" NAME="内存2 覆盖结果" MODIFIED="1622637672941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class8_内存管理" />
+    <SUITE FILE_PATH="coverage/LmckPython$2.coverage" NAME="内存2 覆盖结果" MODIFIED="1630322406330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class8_内存管理" />
     <SUITE FILE_PATH="coverage/LmckPython$FastAPI_No_12_Body_Multiple_Parameters_3.coverage" NAME="FastAPI_No.12_Body_Multiple_Parameters_3 覆盖结果" MODIFIED="1619768087898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FaskAPI/FastAPI_No.12_Body_Multiple_Parameters" />
-    <SUITE FILE_PATH="coverage/LmckPython$.coverage" NAME="垃圾回收机制 覆盖结果" MODIFIED="1622637265065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class8_内存管理" />
+    <SUITE FILE_PATH="coverage/LmckPython$.coverage" NAME="垃圾回收机制 覆盖结果" MODIFIED="1630324946019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class8_内存管理" />
     <SUITE FILE_PATH="coverage/LmckPython$FastAPI_No_13_Body_Fields_2.coverage" NAME="FastAPI_No.13_Body_Fields_2 覆盖结果" MODIFIED="1619769165724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FaskAPI/FastAPI_No.13_Body_Fields" />
     <SUITE FILE_PATH="coverage/LmckPython$FastAPI_No_12_Body_Multiple_Parameters_2.coverage" NAME="FastAPI_No.12_Body_Multiple_Parameters_2 覆盖结果" MODIFIED="1619768037077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FaskAPI/FastAPI_No.12_Body_Multiple_Parameters" />
     <SUITE FILE_PATH="coverage/LmckPython$toutiao.coverage" NAME="toutiao 覆盖结果" MODIFIED="1621481734313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class9_并发和性能" />

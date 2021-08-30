@@ -22,3 +22,13 @@ print(type(t))
 print(type(Test))
 
 print(type(type))
+
+# 字典遍历的时候不允许添加和修改元素
+dic = {"a": 11, "b": 22}
+
+data = list(dic.items())
+dic["c"] = 33
+print(data)
+
+for k, v in data:
+    print(k)
