@@ -2,11 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d9e1608-049e-4c91-9bd2-34022d0b39ab" name="Default Changelist" comment="》">
-      <change afterPath="$PROJECT_DIR$/class8_内存管理/垃圾回收引用.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class8_内存管理/深拷贝.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class8_内存管理/深拷贝关系引用.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class9_flask基本结构/01_simple_server_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class9_flask基本结构/02_simple_server_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class9_flask基本结构/02_simple_server_02homework.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class9_flask基本结构/03_flask_abc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class9_flask基本结构/04_flask_模版.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class9_flask基本结构/html_file/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class9_flask基本结构/src/demo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class9_flask基本结构/src/image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class9_flask基本结构/static/demo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class9_flask基本结构/static/image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class9_flask基本结构/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class9_flask基本结构/webdriver.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8_内存管理/内存2.py" beforeDir="false" afterPath="$PROJECT_DIR$/class8_内存管理/内存2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,30 +172,31 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.env/LmckPython-1W6XGfFm" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/class9_flask基本结构/src" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.语言默认值" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\LmckPython\class9_flask基本结构\src" />
+      <recent name="H:\LmckPython\class9_flask基本结构" />
       <recent name="F:\LmckPython\FaskAPI" />
       <recent name="F:\LmckPython\FaskAPI\static\imgs" />
       <recent name="F:\LmckPython\FaskAPI\templates" />
-      <recent name="F:\LmckPython\FaskAPI\static\css" />
-      <recent name="F:\LmckPython\FaskAPI\static\js" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\LmckPython\class9_flask基本结构\static" />
+      <recent name="H:\LmckPython\class9_flask基本结构\template" />
       <recent name="F:\LmckPython\FaskAPI\static\js" />
       <recent name="F:\LmckPython\FaskAPI" />
       <recent name="F:\LmckPython" />
-      <recent name="F:\LmckPython\class5_recursion" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.垃圾回收机制">
-    <configuration name="垃圾回收机制" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.04_flask_模版">
+    <configuration name="01_simple_server_01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LmckPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -195,12 +204,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class8_内存管理" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class9_flask基本结构" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class8_内存管理/垃圾回收机制.py" />
+      <option name="SCRIPT_NAME" value="H:\LmckPython\class9_flask基本结构\01_simple_server_01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -209,7 +218,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="内存2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02_simple_server_02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LmckPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -217,12 +226,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class8_内存管理" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class9_flask基本结构" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class8_内存管理/内存2.py" />
+      <option name="SCRIPT_NAME" value="H:\LmckPython\class9_flask基本结构\02_simple_server_02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -231,7 +240,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="深拷贝" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02_simple_server_02homework" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LmckPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -239,12 +248,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class8_内存管理" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class9_flask基本结构" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class8_内存管理/深拷贝.py" />
+      <option name="SCRIPT_NAME" value="H:\LmckPython\class9_flask基本结构\02_simple_server_02homework.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -253,7 +262,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="FastAPI_No.10_Query_Parameters_and_String_Validations" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03_flask_abc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LmckPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -261,12 +270,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FaskAPI/FastAPI_No.10_Query_Parameters_and_String_Validations" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class9_flask基本结构" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FaskAPI/FastAPI_No.10_Query_Parameters_and_String_Validations/FastAPI_No.10_Query_Parameters_and_String_Validations.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class9_flask基本结构/03_flask_abc.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="04_flask_模版" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LmckPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class9_flask基本结构" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class9_flask基本结构/04_flask_模版.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -319,42 +350,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="toutiao" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LmckPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class9_并发和性能" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class9_并发和性能/toutiao.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.toutiao" />
-      <item itemvalue="Python.FastAPI_No.10_Query_Parameters_and_String_Validations" />
-      <item itemvalue="Python.垃圾回收机制" />
-      <item itemvalue="Python.内存2" />
-      <item itemvalue="Python.深拷贝" />
+      <item itemvalue="Python.01_simple_server_01" />
+      <item itemvalue="Python.02_simple_server_02" />
+      <item itemvalue="Python.02_simple_server_02homework" />
+      <item itemvalue="Python.03_flask_abc" />
+      <item itemvalue="Python.04_flask_模版" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.垃圾回收机制" />
-        <item itemvalue="Python.深拷贝" />
-        <item itemvalue="Python.内存2" />
-        <item itemvalue="Python.FastAPI_No.10_Query_Parameters_and_String_Validations" />
-        <item itemvalue="Python.toutiao" />
+        <item itemvalue="Python.04_flask_模版" />
+        <item itemvalue="Python.03_flask_abc" />
+        <item itemvalue="Python.02_simple_server_02" />
+        <item itemvalue="Python.02_simple_server_02homework" />
+        <item itemvalue="Python.01_simple_server_01" />
       </list>
     </recent_temporary>
   </component>
@@ -389,7 +398,10 @@
       <workItem from="1621946280538" duration="984000" />
       <workItem from="1622631232026" duration="3725000" />
       <workItem from="1622637419817" duration="2763000" />
-      <workItem from="1630321545884" duration="3665000" />
+      <workItem from="1630321545884" duration="3742000" />
+      <workItem from="1638443381110" duration="5962000" />
+      <workItem from="1638534864073" duration="12780000" />
+      <workItem from="1638621223290" duration="1490000" />
     </task>
     <task id="LOCAL-00001" summary="》完成第十一天的课程学习">
       <created>1612773564365</created>
@@ -510,7 +522,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622639476605</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="》学习内存管理">
+      <created>1630325262183</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1630325262183</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -593,7 +612,8 @@
     <MESSAGE value="》测试" />
     <MESSAGE value="》" />
     <MESSAGE value="》内存学习" />
-    <option name="LAST_COMMIT_MESSAGE" value="》内存学习" />
+    <MESSAGE value="》学习内存管理" />
+    <option name="LAST_COMMIT_MESSAGE" value="》学习内存管理" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
@@ -603,14 +623,21 @@
     <SUITE FILE_PATH="coverage/LmckPython$FastAPI_No_13_Body_Fields_2.coverage" NAME="FastAPI_No.13_Body_Fields_2 覆盖结果" MODIFIED="1619769165724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FaskAPI/FastAPI_No.13_Body_Fields" />
     <SUITE FILE_PATH="coverage/LmckPython$FastAPI_No_12_Body_Multiple_Parameters_2.coverage" NAME="FastAPI_No.12_Body_Multiple_Parameters_2 覆盖结果" MODIFIED="1619768037077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FaskAPI/FastAPI_No.12_Body_Multiple_Parameters" />
     <SUITE FILE_PATH="coverage/LmckPython$toutiao.coverage" NAME="toutiao 覆盖结果" MODIFIED="1621481734313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class9_并发和性能" />
+    <SUITE FILE_PATH="coverage/LmckPython$simple_server.coverage" NAME="simple_server 覆盖结果" MODIFIED="1638447113580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class9_flask基本结构" />
+    <SUITE FILE_PATH="coverage/LmckPython$simple_server_02homework.coverage" NAME="simple_server_02homework 覆盖结果" MODIFIED="1638593023915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class9_flask基本结构" />
+    <SUITE FILE_PATH="coverage/LmckPython$simple_server_02.coverage" NAME="simple_server_02 覆盖结果" MODIFIED="1638597470329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class9_flask基本结构" />
     <SUITE FILE_PATH="coverage/LmckPython$fast_api_1.coverage" NAME="fast_api_1 覆盖结果" MODIFIED="1619271379943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FaskAPI" />
     <SUITE FILE_PATH="coverage/LmckPython$FastAPI_No_13_Body_Fields_1.coverage" NAME="FastAPI_No.13_Body_Fields_1 覆盖结果" MODIFIED="1619769038748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FaskAPI/FastAPI_No.13_Body_Fields" />
+    <SUITE FILE_PATH="coverage/LmckPython$post_test_5.coverage" NAME="post_test_5 覆盖结果" MODIFIED="1638443566532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FaskAPI/FastAPI_No.6_bootstrap_static" />
     <SUITE FILE_PATH="coverage/LmckPython$FastAPI_No_12_Body_Multiple_Parameters_1.coverage" NAME="FastAPI_No.12_Body_Multiple_Parameters_1 覆盖结果" MODIFIED="1620026009532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FaskAPI/FastAPI_No.12_Body_Multiple_Parameters" />
     <SUITE FILE_PATH="coverage/LmckPython$FastAPI_No_12_Body_Multiple_Parameters_4.coverage" NAME="FastAPI_No.12_Body_Multiple_Parameters_4 覆盖结果" MODIFIED="1619768224068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FaskAPI/FastAPI_No.12_Body_Multiple_Parameters" />
+    <SUITE FILE_PATH="coverage/LmckPython$04_flask_.coverage" NAME="04_flask_模版 覆盖结果" MODIFIED="1638622723457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class9_flask基本结构" />
     <SUITE FILE_PATH="coverage/LmckPython$fast_api_2.coverage" NAME="fast_api_2 覆盖结果" MODIFIED="1619671997538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FaskAPI" />
     <SUITE FILE_PATH="coverage/LmckPython$fastapi_main.coverage" NAME="fastapi_main 覆盖结果" MODIFIED="1619265357569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FaskAPI" />
+    <SUITE FILE_PATH="coverage/LmckPython$webdriver.coverage" NAME="webdriver 覆盖结果" MODIFIED="1638446193787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class9_flask基本结构" />
     <SUITE FILE_PATH="coverage/LmckPython$FastAPI_No_11_Path_Parameters_and_Numeric_Validations.coverage" NAME="FastAPI_No.11_Path_Parameters_and_Numeric_Validations 覆盖结果" MODIFIED="1619766985188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FaskAPI/FastAPI_No.11_Path_Parameters_and_Numeric_Validations" />
     <SUITE FILE_PATH="coverage/LmckPython$FastAPI_No_10_Query_Parameters_and_String_Validations.coverage" NAME="FastAPI_No.10_Query_Parameters_and_String_Validations 覆盖结果" MODIFIED="1621921328292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FaskAPI/FastAPI_No.10_Query_Parameters_and_String_Validations" />
+    <SUITE FILE_PATH="coverage/LmckPython$03_flask_abc.coverage" NAME="03_flask_abc 覆盖结果" MODIFIED="1638620705390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class9_flask基本结构" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/class4_tuidaoshi/class_练习practice.py">
