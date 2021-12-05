@@ -20,7 +20,7 @@ app.config['DEBUG'] = True
 app.config['PORT'] = 5000
 
 # 装饰器
-"""
+'''
 from functools import wraps
 def decorator_name(f):
     @wraps(f)
@@ -41,7 +41,7 @@ print(func())
 can_run = False
 print(func())
 # Output: Function will not run
-"""
+'''
 
 
 def log_time(f):
